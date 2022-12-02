@@ -13,4 +13,5 @@ echo "Timer set";;
 *) 
 echo "Option not available"
 echo "Choose from on|off|timer"
+echo "Shutting down in 5 mins"
 esac
